@@ -11,3 +11,4 @@ return new Promise((resolve, reject)=>{
  console.log(anotherFuncion())
 
 // promise algo que puede suceder ahorita jajaja
+
